@@ -1,0 +1,38 @@
+.Missionandvision{
+    display: flex;
+    gap: 10%;
+    align-items: center;
+    margin-left: 13%;
+    margin-top: 20%;
+    background-size: cover;
+}
+.mission{
+    background-color: pink;
+    height: 260px;
+    width: 600px;
+}
+.vision{
+    background-color: pink;
+    height: 260px;
+    width: 600px;
+}
+@media screen and (max-width: 650px){
+    .Missionandvision{
+        display: flex;
+        gap: 10%;
+        align-items: center;
+        margin-left: 13%;
+        margin-top: 20%;
+        background-size: cover;
+    }
+    .mission{
+        background-color: pink;
+        height: 460px;
+        width: 600px;
+    }
+    .vision{
+        background-color: pink;
+        height: 460px;
+        width: 600px;
+    }
+}
