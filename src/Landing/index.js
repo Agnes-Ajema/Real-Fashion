@@ -2,15 +2,15 @@ import './index.css'
 
 const Landing =()=>{
     return(
-        <div>
+        <div id='whole'>
         <nav id='navbar'>
             <img src='/Images/logo.png' alt=''/>
-            <a href='/home.index.js'>Home</a>
-            <a href='/about.index.js'>About Us</a>
-            <a href='/contacts.idex.js'>Contacts</a>
+            <a href='#'>Home</a>
+            <a href='#'>About Us</a>
+            <a href='#'>Contacts</a>
             </nav>
             <div id='page'>
-                <p>Shop The Best Bales For Your Second Hand Clothes </p>
+                <p>Shop The Best Bales <br/>For Your Second Hand Clothes Business</p>
             </div>
         </div>
         
