@@ -25,11 +25,11 @@ nav{
 
 }
 
-img{
+#piclogo{
     height: 90px;
     width: 110px;
 }
-p{
+#paragraph{
     text-align: center;
     font-size:70px;
     margin-top: 160px;
