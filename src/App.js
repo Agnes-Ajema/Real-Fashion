@@ -1,6 +1,7 @@
 import './App.css'
 import Landing from "./Landing";
 import  Team from './Team';
+import Mission from './Mission';
 
 
  function App () {
@@ -9,6 +10,7 @@ import  Team from './Team';
 
       <Landing/>
       <Team/>
+      <Mission/>
       
 
     </div>
