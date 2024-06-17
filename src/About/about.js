@@ -12,6 +12,7 @@ const About = () =>{
                <br></br>
                will have power to create change.</p>
         </div>
+        <h1 className='collegues'>Our Team</h1>
         <div className='images'>
         <figure>
             < img src="/Images/glady.jpg" alt="" className='team'/>
