@@ -1,5 +1,6 @@
 import './App.css'
 import Landing from "./Landing";
+import  Team from './Team';
 
 
  function App () {
@@ -7,6 +8,8 @@ import Landing from "./Landing";
         <div className='landing'>
 
       <Landing/>
+      <Team/>
+      
 
     </div>
   );
