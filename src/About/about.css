@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+.about{
+    font-size: 19px;
+    margin-left: -7%;
+}
+
+
+.team{
+    border-radius: 50%;
+    width: 200px;
+    height: 210px;
+
+}
+
+.images{
+    display: flex;
+    margin-left: 10%;
+    font-size: 15px;
+}
+
+.wholepage{
+    justify-content: space-between;
+    margin-top:7%;
+}
+
+
+
+
